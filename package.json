@@ -1,0 +1,18 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Muhammad Ridwan <butuhdoa@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git:github.com/butuh/node-webapp.git"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
+
